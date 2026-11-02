@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/tempora/commit/af7ee2dccd4bc96da32bb801c6c1317f9dcfa602",
       "git:hexsha": "af7ee2dccd4bc96da32bb801c6c1317f9dcfa602",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:50:42.419891+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/tempora/commit/9a486be17ab1795e370ce16099c712da0a8e92ca",
