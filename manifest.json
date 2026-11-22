@@ -72,6 +72,204 @@
       ],
       "ast": [
         "aggregate/ast/95ae10efa52b5ec450b7e39e43e29401645a59ee/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/95ae10efa52b5ec450b7e39e43e29401645a59ee.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "jaraco-functools",
+          "ecosystem": "PYPI",
+          "version": "1.20",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.functools",
+          "githubCommit": "6718491608b30a28a03a0a1a71038afbb2d8ac5c",
+          "githubTag": "1.20",
+          "githubUrl": "https://github.com/jaraco/jaraco.functools",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "python-dateutil",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "dateutil",
+          "githubRepo": "dateutil",
+          "githubCommit": "a78cbd81d5d03b5f126eb36edb92bca78972c804",
+          "githubTag": "4.0.0",
+          "githubUrl": "https://github.com/dateutil/dateutil",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "6",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-freezer",
+          "ecosystem": "PYPI",
+          "version": "0.4.9",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-freezer",
+          "githubCommit": "d6fcf3856b8fd20c11a172bb329c432d708d5e80",
+          "githubTag": "0.4.9",
+          "githubUrl": "https://github.com/pytest-dev/pytest-freezer",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "backports-zoneinfo",
+          "ecosystem": "PYPI",
+          "version": "0.2.1",
+          "githubOrg": "pganssle",
+          "githubRepo": "zoneinfo",
+          "githubCommit": "4299bfd7623934acc6f27b32744b02a147912120",
+          "githubTag": "0.2.1",
+          "githubUrl": "https://github.com/pganssle/zoneinfo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tzdata",
+          "ecosystem": "PYPI",
+          "version": "2026.6.0",
+          "githubOrg": "python",
+          "githubRepo": "tzdata",
+          "githubUrl": "https://github.com/python/tzdata",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "3.5",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-packaging",
+          "ecosystem": "PYPI",
+          "version": "9.3",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.packaging",
+          "githubUrl": "https://github.com/jaraco/jaraco.packaging",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rst-linker",
+          "ecosystem": "PYPI",
+          "version": "1.9",
+          "githubOrg": "jaraco",
+          "githubRepo": "rst.linker",
+          "githubCommit": "1c401270bf6df04aa6ae4f750e13364b6fb2b74c",
+          "githubTag": "1.9",
+          "githubUrl": "https://github.com/jaraco/rst.linker",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2025.12.19",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubCommit": "dd9e9f920494f24b9b8dd954ec9d07e0b9d12817",
+          "githubTag": "2025.12.19",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-lint",
+          "ecosystem": "PYPI",
+          "version": "1.0.2",
+          "githubOrg": "sphinx-contrib",
+          "githubRepo": "sphinx-lint",
+          "githubCommit": "c883505f64b59c3c5c9375191e4ad9f98e727ccd",
+          "githubTag": "v1.0.2",
+          "githubUrl": "https://github.com/sphinx-contrib/sphinx-lint",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jaraco-tidelift",
+          "ecosystem": "PYPI",
+          "version": "1.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "jaraco.tidelift",
+          "githubUrl": "https://github.com/jaraco/jaraco.tidelift",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-checkdocs",
+          "ecosystem": "PYPI",
+          "version": "2.4",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-checkdocs",
+          "githubUrl": "https://github.com/jaraco/pytest-checkdocs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-ruff",
+          "ecosystem": "PYPI",
+          "version": "0.2.1",
+          "githubOrg": "businho",
+          "githubRepo": "pytest-ruff",
+          "githubCommit": "2098829cfb8f95c2885c6dec3e229ed3092e2c1e",
+          "githubTag": "v0.2.1",
+          "githubUrl": "https://github.com/businho/pytest-ruff",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-enabler",
+          "ecosystem": "PYPI",
+          "version": "2.2",
+          "githubOrg": "jaraco",
+          "githubRepo": "pytest-enabler",
+          "githubUrl": "https://github.com/jaraco/pytest-enabler",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-mypy",
+          "ecosystem": "PYPI",
+          "version": "1.1.0",
+          "githubOrg": "realpython",
+          "githubRepo": "pytest-mypy",
+          "githubCommit": "b578993c4cbb4bbf3f16aceef123b67825fe5aff",
+          "githubTag": "v1.1.0",
+          "githubUrl": "https://github.com/realpython/pytest-mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "types-python-dateutil",
+          "ecosystem": "PYPI",
+          "version": "2.9.0.20261116",
+          "githubOrg": "python",
+          "githubRepo": "typeshed",
+          "githubUrl": "https://github.com/python/typeshed",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
