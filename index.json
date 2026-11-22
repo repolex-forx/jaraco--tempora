@@ -3,6 +3,11 @@
   "repo": "tempora",
   "versions": [
     {
+      "commit": "95ae10efa52b5ec450b7e39e43e29401645a59ee",
+      "tag": "v5.8.1",
+      "parsed_at": "2026-11-22T01:35:48.285961+00:00"
+    },
+    {
       "commit": "af7ee2dccd4bc96da32bb801c6c1317f9dcfa602",
       "tag": "",
       "parsed_at": "2026-11-02T18:50:42.476122+00:00"
